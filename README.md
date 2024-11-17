@@ -1,7 +1,5 @@
 
-
-
-#CRUD APPLICATION USING NODEJS
+CRUD APPLICATION USING NODEJS
 
 This is a web application built using **Node.js**, **Express.js**, **EJS**, and **MongoDB**. The project serves as a crud full-stack web applications.
 
